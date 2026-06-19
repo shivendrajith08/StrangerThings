@@ -1,8 +1,8 @@
-# Stranger Things
+# Stranger Things:
 
 A Stranger Things themed web application built with React and Vite, inspired by the mysterious world of Hawkins and the Upside Down.
 
-## Features
+## Features:
 
 * Responsive design
 * Modern React components
@@ -10,7 +10,7 @@ A Stranger Things themed web application built with React and Vite, inspired by 
 * Fast performance with Vite
 * Stranger Things inspired visuals and theme
 
-## Technologies Used
+## Technologies Used:
 
 * React.js
 * Vite
